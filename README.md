@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I'm a beginner dev specialized in Front-End Web Développement..<br><br>✍️ I'm a very special guy i'm bad on all things in this planet but coding not i'm good but not really??
+🛠️ I'm a beginner dev specialized in frontend web developpement..
 
 
 ## 🌐 Socials:
